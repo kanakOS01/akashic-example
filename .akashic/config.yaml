@@ -1,9 +1,13 @@
 version: 1
 knowledge:
   path: .
-repositories: []
+repositories:
+- name: gravitype
+  settings: {}
+- name: taskflow
+  settings: {}
 agent:
-  provider: codex
+  provider: claude
   command: null
 site:
   port: 6969

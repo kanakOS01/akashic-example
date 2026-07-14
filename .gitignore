@@ -1,3 +1,4 @@
 .akashic/cache/
 .akashic/logs/
 .akashic/config.local.yaml
+venv/

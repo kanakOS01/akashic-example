@@ -8,7 +8,6 @@ akashic_version: 1.0
 ---
 
 ## Status
-chutieyapoajsdlfjas;ldkfgjalskdfjlskdjf
 **Accepted** — Currently implemented in auth service.
 
 ## Context
